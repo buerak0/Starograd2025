@@ -1,0 +1,509 @@
+-- Props_1 = {}
+-- Props_1[1] = "models/hunter/plates/plate1x1.mdl"
+-- Props_1[2] = "models/hunter/plates/plate1x2.mdl"
+-- Props_1[3] = "models/hunter/plates/plate1x3.mdl"
+-- Props_1[4] = "models/hunter/plates/plate1x4.mdl"
+-- Props_1[5] = "models/hunter/plates/plate1x5.mdl"
+-- Props_1[6] = "models/hunter/plates/plate1x6.mdl"
+-- Props_1[7] = "models/hunter/plates/plate1x7.mdl"
+-- Props_1[8] = "models/hunter/plates/plate1x8.mdl"
+-- Props_1[9] = "models/hunter/plates/plate2x2.mdl"
+-- Props_1[10] = "models/hunter/plates/plate2x4.mdl"
+-- Props_1[11] = "models/hunter/plates/plate2x5.mdl"
+-- Props_1[12] = "models/hunter/plates/plate2x6.mdl"
+-- Props_1[13] = "models/hunter/plates/plate2x7.mdl"
+-- Props_1[14] = "models/hunter/plates/plate2x8.mdl"
+-- Props_1[15] = "models/hunter/plates/plate3x3.mdl"
+-- Props_1[16] = "models/hunter/plates/plate3x4.mdl"
+-- Props_1[17] = "models/hunter/plates/plate3x5.mdl"
+-- Props_1[18] = "models/hunter/plates/plate3x6.mdl"
+-- Props_1[19] = "models/hunter/plates/plate3x7.mdl"
+-- Props_1[20] = "models/hunter/plates/plate3x8.mdl"
+-- Props_1[21] = "models/hunter/plates/plate4x4.mdl"
+-- Props_1[22] = "models/hunter/plates/plate4x5.mdl"
+-- Props_1[23] = "models/hunter/plates/plate4x6.mdl"
+-- Props_1[24] = "models/hunter/plates/plate4x8.mdl"
+-- Props_1[25] = "models/hunter/plates/plate5x6.mdl"
+-- Props_1[26] = "models/hunter/plates/plate5x7.mdl"
+-- Props_1[27] = "models/hunter/plates/plate6x6.mdl"
+-- Props_1[28] = "models/hunter/plates/plate6x7.mdl"
+-- Props_1[29] = "models/hunter/plates/plate6x8.mdl"
+-- Props_1[30] = "models/hunter/plates/plate7x7.mdl"
+-- Props_1[31] = "models/hunter/plates/plate7x7.mdl"
+-- Props_1[32] = "models/hunter/blocks/cube025x025x025.mdl"
+-- Props_1[33] = "models/hunter/blocks/cube025x025x025.mdl"
+-- Props_1[34] = "models/hunter/blocks/cube025x1x025.mdl"
+-- Props_1[35] = "models/hunter/blocks/cube025x2x025.mdl"
+-- Props_1[36] = "models/hunter/blocks/cube025x5x025.mdl"
+-- Props_1[37] = "models/hunter/blocks/cube025x7x025.mdl"
+-- Props_1[38] = "models/hunter/blocks/cube05x05x025.mdl"
+-- Props_1[39] = "models/hunter/blocks/cube05x1x025.mdl"
+-- Props_1[40] = "models/hunter/blocks/cube05x2x025.mdl"
+-- Props_1[41] = "models/hunter/blocks/cube05x5x025.mdl"
+-- Props_1[42] = "models/hunter/blocks/cube05x7x025.mdl"
+-- Props_1[43] = "models/hunter/blocks/cube1x1x025.mdl"
+-- Props_1[44] = "models/hunter/blocks/cube1x2x025.mdl"
+-- Props_1[45] = "models/hunter/blocks/cube1x3x025.mdl"
+-- Props_1[46] = "models/hunter/blocks/cube1x4x025.mdl"
+-- Props_1[47] = "models/hunter/blocks/cube1x5x025.mdl"
+-- Props_1[48] = "models/hunter/blocks/cube1x6x025.mdl"
+-- Props_1[49] = "models/hunter/blocks/cube1x7x025.mdl"
+-- Props_1[50] = "models/hunter/blocks/cube2x2x025.mdl"
+-- Props_1[51] = "models/hunter/blocks/cube2x3x025.mdl"
+-- Props_1[52] = "models/hunter/blocks/cube2x4x025.mdl"
+-- Props_1[53] = "models/hunter/blocks/cube2x6x025.mdl"
+-- Props_1[54] = "models/hunter/blocks/cube3x3x025.mdl"
+-- Props_1[55] = "models/hunter/blocks/cube1x1x05.mdl"
+-- Props_1[56] = "models/hunter/blocks/cube1x2x05.mdl"
+-- Props_1[57] = "models/hunter/blocks/cube2x2x05.mdl"
+-- Props_1[58] = "models/hunter/blocks/cube2x4x05.mdl"
+-- Props_1[59] = "models/props_phx/construct/windows/window1x1.mdl"
+-- Props_1[60] = "models/props_phx/construct/windows/window1x2.mdl"
+-- Props_1[61] = "models/props_phx/construct/windows/window2x2.mdl"
+-- Props_1[62] = "models/props_phx/construct/windows/window2x4.mdl"
+-- Props_1[63] = "models/props_phx/construct/metal_tube.mdl"
+-- Props_1[64] = "models/props_phx/construct/metal_tubex2.mdl"
+-- Props_1[65] = "models/Mechanics/gears2/pinion_40t3.mdl"
+-- Props_1[66] = "models/props_phx/rt_screen.mdl"
+-- Props_1[67] = "models/props_phx/construct/metal_plate1x2.mdl"
+-- Props_1[68] = "models/props_phx/construct/metal_plate1_tri.mdl"
+-- Props_1[69] = "models/props_phx/construct/metal_plate2x2_tri.mdl"
+-- Props_1[70] = "models/props_phx/construct/metal_plate2x4_tri.mdl"
+-- Props_1[71] = "models/props_phx/construct/metal_plate4x4.mdl"
+-- Props_1[72] = "models/props_phx/construct/metal_plate4x4_tri.mdl"
+-- Props_1[73] = "models/props_phx/construct/windows/window1x2.mdl"
+-- Props_1[74] = "models/props_phx/construct/windows/window1x1.mdl"
+-- Props_1[75] = "models/hunter/blocks/cube075x2x025.mdl"
+-- Props_1[76] = "models/hunter/blocks/cube1x2x025.mdl"
+-- Props_1[77] = "models/hunter/blocks/cube05x105x05.mdl"
+-- Props_1[78] = "models/hunter/blocks/cube05x2x05.mdl"
+-- Props_1[79] = "models/hunter/tubes/circle2x2.mdl"
+-- Props_1[80] = "models/hunter/triangles/025x025.mdl"
+-- Props_1[81] = "models/hunter/triangles/2x2.mdl"
+-- Props_1[82] = "models/hunter/triangles/4x4.mdl"
+-- Props_1[83] = "models/hunter/plates/tri2x1.mdl"
+-- Props_1[84] = "models/hunter/triangles/05x05x05.mdl"
+-- Props_1[85] = "models/hunter/triangles/1x05x1.mdl"
+-- Props_1[86] = "models/hunter/triangles/1x05x1.mdl"
+-- Props_1[87] = "models/hunter/triangles/1x05x1.mdl"
+-- Props_1[88] = "models/hunter/triangles/2x1x1.mdl"
+-- Props_1[89] = "models/hunter/triangles/2x2x2.mdl"
+-- Props_1[90] = "models/hunter/triangles/1x1x1carved.mdl"
+-- Props_1[91] = "models/hunter/triangles/2x2x1carved.mdl"
+-- Props_1[92] = "models/mechanics/solid_steel/crossbeam_8.mdl"
+-- Props_1[93] = "models/mechanics/solid_steel/sheetmetal_box_4.mdl"
+-- Props_1[94] = "models/mechanics/solid_steel/steel_beam45_4.mdl"
+-- Props_1[95] = "models/Mechanics/robotics/stand.mdl"
+-- Props_1[96] = "models/mechanics/roboticslarge/claw_hub_8.mdl"
+-- Props_1[97] = "models/Mechanics/robotics/a3.mdl"
+-- Props_1[98] = "models/Mechanics/robotics/m3.mdl"
+-- Props_1[99] = "models/mechanics/wheels/wheel_spike_24.mdl"
+-- Props_1[100] = "models/props_phx/smallwheel.mdl"
+-- Props_1[101] = "models/hunter/misc/shell2x2a.mdl"
+-- Props_1[102] = "models/props_phx/construct/metal_wire_angle180x1.mdl"
+-- Props_1[103] = "models/XQM/cylinderx1medium.mdl"
+-- Props_1[104] = "models/props_junk/garbage128_composite001b.mdl"
+-- Props_1[105] = "models/props_junk/garbage128_composite001c.mdl"
+-- Props_1[106] = "models/props_junk/garbage128_composite001d.mdl"
+-- Props_1[107] = "models/props_junk/garbage256_composite001a.mdl"
+-- Props_1[108] = "models/props_junk/garbage256_composite001b.mdl"
+-- Props_1[109] = "models/props_junk/garbage256_composite002a.mdl"
+-- Props_1[110] = "models/props_junk/garbage256_composite002b.mdl"
+-- Props_1[111] = "models/props_junk/garbage_carboard002a.mdl"
+-- Props_1[112] = "models/props_junk/garbage_bag001a.mdl"
+-- Props_1[113] = "models/props_junk/garbage_glassbottle003a.mdl"
+-- Props_1[114] = "models/props_junk/garbage_metalcan001a.mdl"
+-- Props_1[115] = "models/props_junk/garbage_metalcan002a.mdl"
+-- Props_1[116] = "models/props_junk/Shoe001a.mdl"
+-- Props_1[117] = "models/props_lab/bewaredog.mdl"
+-- Props_1[118] = "models/props_junk/wood_pallet001a.mdl"
+-- Props_1[119] = "models/props_junk/TrashDumpster02b.mdl"
+-- Props_1[120] = "models/props_junk/TrashDumpster02b.mdl"
+-- Props_1[121] = "models/props_lab/blastdoor001b.mdl"
+-- Props_1[122] = "models/props_lab/blastdoor001c.mdl"
+-- Props_1[123] = "models/props_vehicles/tire001c_car.mdl"
+-- Props_1[124] = "models/props_c17/FurnitureCouch002a.mdl"
+-- Props_1[125] = "models/props_c17/FurnitureCouch002a.mdl"
+-- Props_1[126] = "models/props_c17/FurnitureCouch001a.mdl"
+-- Props_1[127] = "models/props_c17/FurnitureChair001a.mdl"
+-- Props_1[128] = "models/props_c17/FurnitureDrawer001a.mdl"
+-- Props_1[129] = "models/props_c17/FurnitureDrawer002a.mdl"
+-- Props_1[130] = "models/props_c17/FurnitureFireplace001a.mdl"
+-- Props_1[131] = "models/props_c17/FurnitureRadiator001a.mdl"
+-- Props_1[132] = "models/props_c17/FurnitureShelf001a.mdl"
+-- Props_1[133] = "models/props_c17/FurnitureShelf001b.mdl"
+-- Props_1[134] = "models/props_c17/FurnitureSink001a.mdl"
+-- Props_1[135] = "models/props_c17/FurnitureTable001a.mdl"
+-- Props_1[136] = "models/props_c17/FurnitureTable002a.mdl"
+-- Props_1[137] = "models/props_c17/lampShade001a.mdl"
+-- Props_1[138] = "models/props_c17/FurnitureToilet001a.mdl"
+-- Props_1[139] = "models/props_c17/gravestone002a.mdl"
+-- Props_1[140] = "models/props_c17/gravestone_coffinpiece001a.mdl"
+-- Props_1[141] = "models/props_junk/PlasticCrate01a.mdl"
+-- Props_1[142] = "models/props_c17/Lockers001a.mdl"
+-- Props_1[143] = "models/props_c17/metalladder001.mdl"
+-- Props_1[144] = "models/props_c17/oildrum001.mdl"
+-- Props_1[145] = "models/props_c17/shelfunit01a.mdl"
+-- Props_1[146] = "models/props_combine/breenchair.mdl"
+-- Props_1[147] = "models/props_combine/breendesk.mdl"
+-- Props_1[148] = "models/props_interiors/BathTub01a.mdl"
+-- Props_1[149] = "models/props_interiors/Furniture_chair01a.mdl"
+-- Props_1[150] = "models/props_junk/MetalBucket01a.mdl"
+-- Props_1[151] = "models/props_junk/MetalBucket02a.mdl"
+-- Props_1[152] = "models/props_junk/PushCart01a.mdl"
+-- Props_1[153] = "models/props_junk/metalgascan.mdl"
+-- Props_1[154] = "models/props_junk/TrashBin01a.mdl"
+-- Props_1[155] = "models/props_trainstation/trashcan_indoor001b.mdl"
+-- Props_1[156] = "models/props_wasteland/barricade001a.mdl"
+-- Props_1[157] = "models/props_wasteland/barricade002a.mdl"
+-- Props_1[158] = "models/props_wasteland/controlroom_filecabinet002a.mdl"
+-- Props_1[159] = "models/props_wasteland/kitchen_shelf001a.mdl"
+-- Props_1[160] = "models/props_wasteland/interior_fence002e.mdl"
+-- Props_1[161] = "models/props_wasteland/interior_fence002d.mdl"
+-- Props_1[162] = "models/props_wasteland/controlroom_desk001b.mdl"
+-- Props_1[163] = "models/props_trainstation/trainstation_post001.mdl"
+-- Props_1[164] = "models/props_lab/blastdoor001a.mdl"
+-- Props_1[165] = "models/props_c17/cashregister01a.mdl"
+-- Props_1[166] = "models/props_c17/bench01a.mdl"
+-- Props_1[167] = "models/props_c17/clock01.mdl"
+-- Props_1[168] = "models/props_c17/chair_office01a.mdl"
+-- Props_1[169] = "models/props_c17/computer01_keyboard.mdl"
+-- Props_1[170] = "models/props_c17/FurnitureWashingmachine001a.mdl"
+-- Props_1[171] = "models/props_combine/combine_monitorbay.mdl"
+-- Props_1[172] = "models/props_lab/harddrive02.mdl"
+-- Props_1[173] = "models/props_lab/huladoll.mdl"
+-- Props_1[174] = "models/props_lab/monitor01a.mdl"
+-- Props_1[175] = "models/props_trainstation/bench_indoor001a.mdl"
+-- Props_1[176] = "models/props_interiors/Furniture_Lamp01a.mdl"
+-- Props_1[177] = "models/props_interiors/pot02a.mdl"
+-- Props_1[178] = "models/props_junk/garbage_plasticbottle002a.mdl"
+-- Props_1[179] = "models/props_junk/garbage_plasticbottle001a.mdl"
+-- Props_1[180] = "models/props_lab/desklamp01.mdl"
+-- Props_1[181] = "models/props_interiors/VendingMachineSoda01a.mdl"
+-- Props_1[182] = "models/props_junk/bicycle01a.mdl"
+-- Props_1[183] = "models/props_c17/streetsign001c.mdl"
+-- Props_1[184] = "models/props_c17/streetsign002b.mdl"
+-- Props_1[185] = "models/props_c17/streetsign003b.mdl"
+-- Props_1[186] = "models/props_c17/streetsign004e.mdl"
+-- Props_1[187] = "models/props_c17/streetsign004f.mdl"
+-- Props_1[188] = "models/props_c17/streetsign005b.mdl"
+-- Props_1[189] = "models/props_c17/streetsign005c.mdl"
+-- Props_1[190] = "models/props_c17/streetsign005d.mdl"
+-- Props_1[191] = "models/props_c17/fence01a.mdl"
+-- Props_1[192] = "models/props_c17/fence01b.mdl"
+-- Props_1[193] = "models/props_c17/fence02a.mdl"
+-- Props_1[194] = "models/props_c17/fence02b.mdl"
+-- Props_1[195] = "models/props_c17/fence03a.mdl"
+-- Props_1[196] = "models/props_borealis/mooring_cleat01.mdl"
+-- Props_1[197] = "models/props_borealis/bluebarrel001.mdl"
+-- Props_1[198] = "models/props_c17/canister02a.mdl"
+-- Props_1[199] = "models/props_c17/canister_propane01a.mdl"
+-- Props_1[200] = "models/props_c17/concrete_barrier001a.mdl"
+-- Props_1[201] = "models/props_c17/FurnitureDrawer002a.mdl"
+-- Props_1[202] = "models/props_c17/FurnitureTable003a.mdl"
+-- Props_1[203] = "models/props_lab/frame002a.mdl"
+-- Props_1[204] = "models/props_combine/breenclock.mdl"
+-- Props_1[205] = "models/props_combine/breenglobe.mdl"
+-- Props_1[206] = "models/props_combine/combine_interface001.mdl"
+-- Props_1[207] = "models/props_combine/combine_intmonitor001.mdl"
+-- Props_1[208] = "models/props_doors/door03_slotted_left.mdl"
+-- Props_1[209] = "models/props_interiors/Furniture_Couch01a.mdl"
+-- Props_1[210] = "models/props_interiors/BathTub01a.mdl"
+-- Props_1[211] = "models/props_interiors/Furniture_Desk01a.mdl"
+-- Props_1[212] = "models/props_interiors/Furniture_Vanity01a.mdl"
+-- Props_1[213] = "models/props_c17/FurnitureFridge001a.mdl"
+-- Props_1[214] = "models/props_interiors/SinkKitchen01a.mdl"
+-- Props_1[215] = "models/props_wasteland/controlroom_filecabinet002a.mdl"
+-- Props_1[216] = "models/props_trainstation/trainstation_clock001.mdl"
+-- Props_1[217] = "models/props_junk/TrafficCone001a.mdl"
+-- Props_1[218] = "models/props_junk/TrashBin01a.mdl"
+-- Props_1[219] = "models/props_junk/TrashDumpster01a.mdl"
+-- Props_1[220] = "models/props_junk/CinderBlock01a.mdl"
+-- Props_1[221] = "models/props_docks/dock01_cleat01a.mdl"
+-- Props_1[222] = "models/props_wasteland/cafeteria_bench001a.mdl"
+-- Props_1[223] = "models/props_c17/TrapPropeller_Engine.mdl"
+-- Props_1[224] = "models/props_c17/playground_jungle_gym01a.mdl"
+-- Props_1[225] = "models/props_c17/playground_jungle_gym01b.mdl"
+-- Props_1[226] = "models/props_c17/playgroundTick-tack-toe_post01.mdl"
+-- Props_1[227] = "models/props_lab/binderbluelabel.mdl"
+-- Props_1[228] = "models/props_lab/bewaredog.mdl"
+-- Props_1[229] = "models/props_lab/cactus.mdl"
+-- Props_1[230] = "models/props_trainstation/traincar_seats001.mdl"
+-- Props_1[231] = "models/props_trainstation/payphone001a.mdl"
+-- Props_1[232] = "models/props_trainstation/bench_indoor001a.mdl"
+-- Props_1[233] = "models/props_junk/metalgascan.mdl"
+-- Props_1[234] = "models/props_junk/PlasticCrate01a.mdl"
+-- Props_1[235] = "models/props_c17/gate_door01a.mdl"
+-- Props_1[236] = "models/props_wasteland/prison_celldoor001b.mdl"
+-- Props_1[237] = "models/props_wasteland/prison_lamp001c.mdl"
+-- Props_1[238] = "models/props_wasteland/prison_bedframe001b.mdl"
+-- Props_1[239] = "models/props_c17/metalPot002a.mdl"
+-- Props_1[240] = "models/props_c17/metalPot001a.mdl"
+-- Props_1[241] = "models/props_c17/playgroundTick-tack-toe_post01.mdl"
+-- Props_1[242] = "models/props_c17/SuitCase001a.mdl"
+-- Props_1[243] = "models/props_junk/garbage_takeoutcarton001a.mdl"
+-- Props_1[244] = "models/props_lab/plotter.mdl"
+-- Props_1[245] = "models/props_lab/reciever01a.mdl"
+-- Props_1[246] = "models/props_lab/reciever01b.mdl"
+-- Props_1[247] = "models/props_lab/reciever01d.mdl"
+-- Props_1[248] = "models/props_lab/reciever_cart.mdl"
+-- Props_1[249] = "models/props_lab/securitybank.mdl"
+-- Props_1[250] = "models/props_lab/kennel_physics.mdl"
+-- Props_1[251] = "models/props_c17/doll01.mdl"
+-- Props_1[252] = "models/props_c17/Frame002a.mdl"
+-- Props_1[253] = "models/props_c17/gravestone001a.mdl"
+-- Props_1[254] = "models/props_c17/gravestone003a.mdl"
+-- Props_1[255] = "models/props_c17/playgroundTick-tack-toe_block01a.mdl"
+-- Props_1[256] = "models/props_c17/tools_wrench01a.mdl"
+-- Props_1[257] = "models/props_c17/TrapPropeller_Lever.mdl"
+-- Props_1[258] = "models/Gibs/HGIBS.mdl"
+-- Props_1[259] = "models/props_lab/clipboard.mdl"
+-- Props_1[260] = "models/props_lab/crematorcase.mdl"
+-- Props_1[261] = "models/props_interiors/pot01a.mdl"
+-- Props_1[262] = "models/props_junk/metal_paintcan001a.mdl"
+-- Props_1[263] = "models/props_trainstation/clock01.mdl"
+
+-- Props_2 = {}
+-- Props_2[1] = 'models/rschlw/helmet.mdl'
+-- Props_2[2] = 'models/modified/hat01_fix.mdl'
+-- Props_2[3] = 'models/modified/hat03.mdl'
+-- Props_2[4] = 'models/modified/hat04.mdl'
+-- Props_2[5] = 'models/modified/hat06.mdl'
+-- Props_2[6] = 'models/modified/hat07.mdl'
+-- Props_2[7] = 'models/modified/hat08.mdl'
+-- Props_2[8] = 'models/octoteam/accessory/hat06.mdl'
+-- Props_2[9] = 'models/octoteam/freddy/krueger_hat.mdl'
+-- Props_2[10] = 'models/octoteam/magic_hat/magic_hat.mdl'
+-- Props_2[11] = 'models/rschlw/arthur.mdl'
+-- Props_2[12] = 'models/sal/acc/fix/beerhat.mdl'
+-- Props_2[13] = 'models/sal/acc/fix/cheafhat.mdl'
+-- Props_2[14] = 'models/brewstersmodels/christmas/santahat.mdl'
+-- Props_2[15] = 'models/cloud/kn_santahat.mdl'
+-- Props_2[16] = 'models/props_clutter/hardhat.mdl'
+-- Props_2[17] = 'models/props_junk/hardhat.mdl'
+-- Props_2[18] = 'models/sal/halloween/headwrap1.mdl'
+-- Props_2[19] = 'models/sal/halloween/headwrap2.mdl'
+-- Props_2[20] = 'models/sal/halloween/monkey.mdl'
+-- Props_2[21] = 'models/sal/halloween/ninja.mdl'
+-- Props_2[22] = 'models/sal/halloween/skull.mdl'
+-- Props_2[23] = 'models/sal/halloween/zombie.mdl'
+-- Props_2[24] = 'models/sal/bear.mdl'
+-- Props_2[25] = 'models/sal/cat.mdl'
+-- Props_2[26] = 'models/sal/fox.mdl'
+-- Props_2[27] = 'models/sal/gingerbread.mdl'
+-- Props_2[28] = 'models/sal/hawk_1.mdl'
+-- Props_2[29] = 'models/sal/hawk_2.mdl'
+-- Props_2[30] = 'models/sal/owl.mdl'
+-- Props_2[31] = 'models/sal/penguin.mdl'
+-- Props_2[32] = 'models/sal/acc/fix/mask_1.mdl'
+-- Props_2[33] = 'models/sal/pig.mdl'
+-- Props_2[34] = 'models/sal/wolf.mdl'
+-- Props_2[35] = 'models/sal/halloween/bag.mdl'
+-- Props_2[36] = 'models/sal/halloween/doctor.mdl'
+-- Props_2[37] = 'models/sal/acc/fix/mask_4.mdl'
+-- Props_2[38] = 'models/sal/acc/fix/mask_2.mdl'
+-- Props_2[39] = 'models/rschlw/resp.mdl'
+-- Props_2[40] = 'models/rschlw/devil.mdl'
+-- Props_2[41] = 'models/modified/mask6.mdl'
+-- Props_2[42] = 'models/rschlw/blmk.mdl'
+-- Props_2[43] = 'models/modified/balaclava.mdl'
+-- Props_2[44] = 'models/modified/balaclava_g.mdl'
+-- Props_2[45] = 'models/modified/mask5.mdl'
+-- Props_2[46] = 'models/modified/glasses01.mdl'
+-- Props_2[47] = 'models/modified/glasses02.mdl'
+-- Props_2[48] = 'models/octoteam/glasses_potter/glasses_poter.mdl'
+-- Props_2[49] = 'models/rnc/acessories/rnc_smart_glasses01.mdl'
+-- Props_2[50] = 'models/octoteam/car_ghost/ghost.mdl'
+-- Props_2[51] = 'models/rschlw/duckcar.mdl'
+-- Props_2[52] = 'models/rschlw/pikacar.mdl'
+-- Props_2[53] = 'models/rschlw/axecar.mdl'
+-- Props_2[54] = 'models/octoteam/magic_ball/magic.mdl'
+-- Props_2[55] = 'models/octoteam/halloween_loop/loop.mdl'
+-- Props_2[56] = 'models/octoteam/banner_flat/banner_flat.mdl'
+-- Props_2[57] = 'models/mikvoin/accessory_taxi.mdl'
+-- Props_2[58] = 'models/props/spookington/eyejar.mdl'
+-- Props_2[59] = 'models/props/spookington/spider_toy.mdl'
+-- Props_2[60] = 'models/sal/acc/fix/scarf01.mdl'
+-- Props_2[61] = 'models/modified/backpack_1.mdl'
+-- Props_2[62] = 'models/modified/backpack_2.mdl'
+-- Props_2[63] = 'models/sal/acc/armor01.mdl'
+-- Props_2[64] = 'models/modified/headphones.mdl'
+-- Props_2[65] = 'models/octoteam/accessory/bandana.mdl'
+-- Props_2[66] = 'models/modified/bandana.mdl'
+
+-- Props_3 = {}
+-- Props_3[1] = "models/props_vehicles/tire001c_car.mdl"
+
+-- Props_4 = {}
+-- Props_4[1] = "models/props_vehicles/tire001c_car.mdl"
+
+-- Props_5 = {}
+-- Props_5[1] = "models/props_vehicles/tire001c_car.mdl"
+
+-- Props_6 = {}
+-- Props_6[1] = "models/props_vehicles/tire001c_car.mdl"
+
+-- Props_7 = {}
+-- Props_7[1] = "models/props_vehicles/tire001c_car.mdl"
+
+-- Props_8 = {}
+-- Props_8[1] = "models/props_vehicles/tire001c_car.mdl"
+
+-- if CLIENT then
+--     local CfgVars = {}
+--     local WEBSITE = {}
+--     CfgVars["EquipmentDecayTimer"] = 3
+--     CfgVars["WeaponDecayTimer"] = 3
+--     CfgVars["DrugDecayTimer"] = 3
+--     local buytable = {}
+--     buytable["Основные:"] = {}
+--     buytable["Основные:"].Model = Props_1
+--     buytable["Основные:"].Data = Props_1
+--     buytable["Аксессуары:"] = {}
+--     buytable["Аксессуары:"].Model = Props_2
+--     buytable["Аксессуары:"].Data = Props_2
+--     buytable["Бизнес:"] = {}
+--     buytable["Бизнес:"].Model = Props_3
+--     buytable["Бизнес:"].Data = Props_3
+--     buytable["Окружение:"] = {}
+--     buytable["Окружение:"].Model = Props_4
+--     buytable["Окружение:"].Data = Props_4
+--     buytable["События:"] = {}
+--     buytable["События:"].Model = Props_5
+--     buytable["События:"].Data = Props_5
+--     buytable["Еда и продукты:"] = {}
+--     buytable["Еда и продукты:"].Model = Props_6
+--     buytable["Еда и продукты:"].Data = Props_6
+--     buytable["Гараж:"] = {}
+--     buytable["Гараж:"].Model = Props_7
+--     buytable["Гараж:"].Data = Props_7
+--     buytable["Дом:"] = {}
+--     buytable["Дом:"].Model = Props_8
+--     buytable["Дом:"].Data = Props_8
+--     buytable["Офис:"] = {}
+--     buytable["Офис:"].Model = Props_9
+--     buytable["Офис:"].Data = Props_9
+--     local PANEL = {}
+
+--     function PANEL:Init()
+--         self.PanelList = vgui.Create("DPanelList", self)
+--         self.PanelList:SetPadding(4)
+--         self.PanelList:SetSpacing(2)
+--         self.PanelList:EnableVerticalScrollbar(true)
+--         self:BuildList()
+--     end
+
+--     local function AddComma(n)
+--         local sn = tostring(n)
+--         sn = string.ToTable(sn)
+--         local tab = {}
+
+--         for i = 0, #sn - 1 do
+--             if i % 3 == #sn % 3 and not (i == 0) then
+--                 table.insert(tab, ",")
+--             end
+
+--             table.insert(tab, sn[i + 1])
+--         end
+
+--         return string.Implode("", tab)
+--     end
+
+--     function PANEL:BuildList()
+--         self.PanelList:Clear()
+--         local Categorised = {}
+
+--         for k, v in pairs(buytable) do
+--             v.Category = k
+--             Categorised[v.Category] = Categorised[v.Category] or {}
+--             table.insert(Categorised[v.Category], v)
+--         end
+
+--         for CategoryName, v in SortedPairs(Categorised) do
+--             local Category = vgui.Create("DCollapsibleCategory", self)
+--             self.PanelList:AddItem(Category)
+--             Category:SetExpanded(false)
+--             Category:SetLabel(CategoryName)
+--             Category:SetCookieName("EntitySpawn." .. CategoryName)
+--             local Content = vgui.Create("DPanelList")
+--             Category:SetContents(Content)
+--             Content:EnableHorizontal(true)
+--             Content:SetDrawBackground(false)
+--             Content:SetSpacing(2)
+--             Content:SetPadding(2)
+--             Content:SetAutoSize(true)
+--             number = 1
+
+--             for k, v in pairs(buytable[CategoryName].Model) do
+              
+--                 local Icon = vgui.Create("SpawnIcon", self)
+--                 local Model = buytable[CategoryName].Model[number]
+
+--                 if (buytable[CategoryName].Model[number] ~= nil) then
+--                     Icon:SetModel(buytable[CategoryName].Model[number])
+--                 else
+--                     Icon:SetModel("models/error.mdl")
+--                 end
+
+--                 Icon.DoClick = function()
+--                     RunConsoleCommand("gm_spawn", Model)
+--                 end
+
+--                 local lable = vgui.Create("DLabel", Icon)
+--                 lable:SetFont("DebugFixedSmall")
+--                 lable:SetTextColor(color_black)
+--                 lable:SetText(Model)
+--                 lable:SetContentAlignment(5)
+--                 lable:SetWide(self:GetWide())
+--                 lable:AlignBottom(-42)
+--                 Content:AddItem(Icon)
+--                 number = number + 1
+--             end
+--         end
+
+--         self.PanelList:InvalidateLayout()
+--     end
+
+--     function PANEL:PerformLayout()
+--         self.PanelList:StretchToParent(0, 0, 0, 0)
+--     end
+
+--     local CreationSheet = vgui.RegisterTable(PANEL, "Panel")
+
+--     local function CreateContentPanel()
+--         local ctrl = vgui.CreateFromTable(CreationSheet)
+
+--         return ctrl
+--     end
+
+--     local function RemoveSandboxTabs()
+--     	local AccsesGroup = {"superadmin","admin","founder"}
+--         local tabstoremove = {
+-- 	        	language.GetPhrase("spawnmenu.content_tab"), 
+-- 		        language.GetPhrase("spawnmenu.category.npcs"), 
+-- 		        language.GetPhrase("spawnmenu.category.entities"), 
+-- 		        language.GetPhrase("spawnmenu.category.weapons"), 
+-- 		        language.GetPhrase("spawnmenu.category.vehicles"), 
+-- 		        language.GetPhrase("spawnmenu.category.postprocess"), 
+-- 		        language.GetPhrase("spawnmenu.category.dupes"), 
+-- 		        language.GetPhrase("spawnmenu.category.saves")
+--     	}
+    	
+--    		if !table.HasValue(AccsesGroup, LocalPlayer():GetUserGroup()) then 
+-- 	    	for k, v in pairs(g_SpawnMenu.CreateMenu.Items) do
+-- 	            if table.HasValue(tabstoremove, v.Tab:GetText()) then
+-- 	                g_SpawnMenu.CreateMenu:CloseTab(v.Tab, true)
+-- 	                RemoveSandboxTabs()
+-- 	            end
+-- 	        end
+-- 	    end
+--     end
+
+--     hook.Add("SpawnMenuOpen", "blockmenutabs", RemoveSandboxTabs)
+
+--     local function BunkMenu()
+--         return
+--     end
+
+--     spawnmenu.AddCreationTab("Разрешенные пропы", CreateContentPanel, "icon16/application_view_tile.png", 4)
+-- end
